@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.18.0.1">
+	<guid>78d29db4c85fe2fac498ad990fc51e412f7031d5</guid>
+	<type>file</type>
+	<hash>4118965197</hash>
+	<runtimes>
+		<runtime id="78d29db4c85fe2fac498ad990fc51e412f7031d5" name="afs_racecar.texture" link="0"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>
